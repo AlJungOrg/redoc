@@ -195,5 +195,8 @@
     "trailingComma": "all",
     "printWidth": 100,
     "parser": "typescript"
+  },
+  "publishConfig": {
+    "registry": "https://ewtools.jung.de/nexus/content/repositories/npm-internal/"
   }
 }
