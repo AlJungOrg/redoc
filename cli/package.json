@@ -25,7 +25,8 @@
     "yargs": "^13.3.0"
   },
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "registry": "https://ewtools.jung.de/nexus/content/repositories/npm-internal/"
   },
   "devDependencies": {
     "@types/chokidar": "^2.1.3",
