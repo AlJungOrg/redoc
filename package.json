@@ -197,6 +197,6 @@
     "parser": "typescript"
   },
   "publishConfig": {
-    "registry": "https://ewtools.jung.de/nexus/content/repositories/npm-internal/"
+    "registry": "https://ewtools.jung.de/nexus3/repository/AlJungOrg-redoc/"
   }
 }
